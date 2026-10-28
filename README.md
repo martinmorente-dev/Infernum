@@ -128,4 +128,4 @@ Each repository contains its own detailed documentation for installation, develo
 
 ## Authors
 
-Project developed by **Martin Morente Vargas & Cristian Neagu Cocargeanu**.
+Project developed by **[Martin Morente Vargas](https://github.com/martinmorente-dev) & [Cristian Neagu Cocargeanu](https://github.com/CR15T18N)**.
