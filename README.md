@@ -128,4 +128,4 @@ Each repository contains its own detailed documentation for installation, develo
 
 ## Authors
 
-Project developed by **<name / team>**.
+Project developed by **Martin Morente Vargas & Cristian Neagu Cocargeanu**.
